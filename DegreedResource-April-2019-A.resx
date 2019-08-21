@@ -71,6 +71,9 @@
    <data name="A11y_ContentTypesNavType" xml:space="preserve">
       <value>Content Types</value>
    </data>
+   <data name="A11y_ContentTyposNavType" xml:space="preserve">
+      <value>Content Typos</value>
+   </data>
    <data name="A11y_EscapeToDismiss" xml:space="preserve">
       <value>Press escape key to dismiss</value>
    </data>
