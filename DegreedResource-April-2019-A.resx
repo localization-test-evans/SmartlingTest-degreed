@@ -198,6 +198,10 @@
       <value>An account with that e-mail has already been registered. Please login via e-mail.</value>
       <comment>Error message when a user tries to register with an email already registered.</comment>
    </data>
+   <data name="AccountController_EmailLoginForgottenError" xml:space="preserve">
+      <value>You belong to an organization that does not allow signing in with a forgotten E-mail.</value>
+      <comment>Error message when a user tries to login with email and it's not allowed by their organization. </comment>
+   </data>
    <data name="AccountController_EmailLoginDisabledError" xml:space="preserve">
       <value>You belong to an organization that does not allow signing in via E-mail.</value>
       <comment>Error message when a user tries to login with email and it's not allowed by their organization. </comment>
