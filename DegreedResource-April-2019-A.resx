@@ -262,7 +262,7 @@
       <value>Remember me</value>
    </data>
    <data name="AccountController_ResetPassword" xml:space="preserve">
-      <value>Reset your password.</value>
+      <value>Reset password.</value>
    </data>
    <data name="AccountController_ResetYourPassword" xml:space="preserve">
       <value>Reset Your Password</value>
