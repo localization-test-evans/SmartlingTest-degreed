@@ -198,6 +198,10 @@
       <value>Ya se registró una cuenta con ese correo electrónico. Inicie sesión con correo electrónico.</value>
       <comment>Error message when a user tries to register with an email already registered.</comment>
    </data>
+   <data name="AccountController_EmailLoginForgottenError1" xml:space="preserve">
+      <value>Pertenece a una organización que no permite iniciar sesión con One E-mail olvidado.</value>
+      <comment>Error message when a user tries to login with email and it&apos;s not allowed by their organization. </comment>
+   </data>
    <data name="AccountController_EmailLoginDisabledError" xml:space="preserve">
       <value>Forma parte de una empresa que no permite iniciar sesión con correo electrónico.</value>
       <comment>Error message when a user tries to login with email and it&apos;s not allowed by their organization. </comment>

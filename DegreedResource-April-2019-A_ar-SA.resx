@@ -198,6 +198,10 @@
       <value>تم بالفعل تسجيل حساب باستخدام هذا البريد الإلكتروني من قبل. الرجاء تسجيل الدخول باستخدام البريد الإلكتروني.</value>
       <comment>Error message when a user tries to register with an email already registered.</comment>
    </data>
+   <data name="AccountController_EmailLoginForgottenError1" xml:space="preserve">
+      <value>أنت تنتمي إلى مؤسسة لا تسمح بتسجيل الدخول باستخدام بريد إلكتروني واحد منسي.</value>
+      <comment>Error message when a user tries to login with email and it&apos;s not allowed by their organization. </comment>
+   </data>
    <data name="AccountController_EmailLoginDisabledError" xml:space="preserve">
       <value>أنت تنتمي إلى مؤسسة لا تسمح بتسجيل الدخول باستخدام البريد الإلكتروني.</value>
       <comment>Error message when a user tries to login with email and it&apos;s not allowed by their organization. </comment>
