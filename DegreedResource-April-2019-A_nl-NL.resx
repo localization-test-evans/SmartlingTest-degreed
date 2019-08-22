@@ -198,6 +198,10 @@
       <value>Een account met dat e-mailadres is al geregistreerd. Login via e-mail.</value>
       <comment>Error message when a user tries to register with an email already registered.</comment>
    </data>
+   <data name="AccountController_EmailLoginForgottenError1" xml:space="preserve">
+      <value>U bent lid van een organisatie die het niet toestaat om in te loggen met een vergeten e-mailadres.</value>
+      <comment>Error message when a user tries to login with email and it&apos;s not allowed by their organization. </comment>
+   </data>
    <data name="AccountController_EmailLoginDisabledError" xml:space="preserve">
       <value>Je behoort tot een organisatie die aanmelden via e-mail niet toestaat.</value>
       <comment>Error message when a user tries to login with email and it&apos;s not allowed by their organization. </comment>
