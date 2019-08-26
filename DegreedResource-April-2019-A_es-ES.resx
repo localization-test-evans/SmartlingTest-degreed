@@ -262,7 +262,7 @@
       <value>Recordarme</value>
    </data>
    <data name="AccountController_ResetPassword" xml:space="preserve">
-      <value>Restablezca la contraseña.</value>
+      <value>Restablecer la contraseña.</value>
    </data>
    <data name="AccountController_ResetYourPassword" xml:space="preserve">
       <value>Restablecer su contraseña</value>
