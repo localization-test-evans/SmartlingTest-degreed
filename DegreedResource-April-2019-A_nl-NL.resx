@@ -262,7 +262,7 @@
       <value>Onthoud mij</value>
    </data>
    <data name="AccountController_ResetPassword" xml:space="preserve">
-      <value>Reset je wachtwoord.</value>
+      <value>Reset wachtwoord.</value>
    </data>
    <data name="AccountController_ResetYourPassword" xml:space="preserve">
       <value>Reset je wachtwoord</value>

@@ -262,7 +262,7 @@
       <value>تذكرني</value>
    </data>
    <data name="AccountController_ResetPassword" xml:space="preserve">
-      <value>إعادة تعيين كلمة المرور الخاصة بك</value>
+      <value>إعادة تعيين كلمة المرور.</value>
    </data>
    <data name="AccountController_ResetYourPassword" xml:space="preserve">
       <value>إعادة تعيين كلمة المرور الخاصة بك</value>
