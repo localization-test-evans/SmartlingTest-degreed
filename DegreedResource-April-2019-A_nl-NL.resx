@@ -11473,6 +11473,10 @@ Een unieke deelnemer die ten minste één actieve sessie had tijdens de tijdsper
       <value>Afsluiten</value>
       <comment>&apos;x&apos; on button to close modal</comment>
    </data>
+    <data name="flexEdModal_Open" xml:space="preserve">
+      <value>Open</value>
+      <comment>&apos;O&apos; on button to open modal</comment>
+   </data>
    <data name="flexEdModal_ConnectCardButton" xml:space="preserve">
       <value>Connect card</value>
       <comment>Connect card button</comment>
@@ -14665,6 +14669,24 @@ For the moment, we are labeling this &apos;Your Team&apos;.</comment>
    </data>
    <data name="OrgPages_CreatePlan" xml:space="preserve">
       <value>Plan maken</value>
+   </data>
+   <data name="OrgPages_CreateAPage_AboutFood" xml:space="preserve">
+      <value>Maak een pagina of plan over eten</value>
+   </data>
+   <data name="OrgPages_CreateBulkRoles_AboutFood" xml:space="preserve">
+      <value>Of maak meerdere rolplannen via over eten</value>
+   </data>
+   <data name="OrgPages_CreatedBy_AboutFood" xml:space="preserve">
+      <value>Gemaakt door ongeveer eten</value>
+   </data>
+   <data name="OrgPages_CreateDirectory_AboutFood" xml:space="preserve">
+      <value>Maak een pagina over eten</value>
+   </data>
+   <data name="OrgPages_CreatePage_AboutFood" xml:space="preserve">
+      <value>Maak een pagina over eten</value>
+   </data>
+   <data name="OrgPages_CreatePlan_AboutFood" xml:space="preserve">
+      <value>Maak een plan over eten</value>
    </data>
    <data name="OrgPages_Description" xml:space="preserve">
       <value>Beschrijving</value>
