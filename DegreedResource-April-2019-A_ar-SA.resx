@@ -11472,6 +11472,10 @@ e.g. John Doe&apos;s Degreed Profile</comment>
       <value>إغلاق</value>
       <comment>&apos;x&apos; on button to close modal</comment>
    </data>
+    <data name="flexEdModal_Open" xml:space="preserve">
+      <value>فتح</value>
+      <comment>&apos;O&apos; on button to open modal</comment>
+   </data>
    <data name="flexEdModal_ConnectCardButton" xml:space="preserve">
       <value>توصيل البطاقة</value>
       <comment>Connect card button</comment>

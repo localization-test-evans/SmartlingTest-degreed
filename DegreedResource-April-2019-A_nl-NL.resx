@@ -11473,6 +11473,10 @@ Een unieke deelnemer die ten minste één actieve sessie had tijdens de tijdsper
       <value>Afsluiten</value>
       <comment>&apos;x&apos; on button to close modal</comment>
    </data>
+    <data name="flexEdModal_Open" xml:space="preserve">
+      <value>Open</value>
+      <comment>&apos;O&apos; on button to open modal</comment>
+   </data>
    <data name="flexEdModal_ConnectCardButton" xml:space="preserve">
       <value>Connect card</value>
       <comment>Connect card button</comment>
