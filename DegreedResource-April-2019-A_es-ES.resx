@@ -14666,6 +14666,24 @@ For the moment, we are labeling this &apos;Your Team&apos;.</comment>
    <data name="OrgPages_CreatePlan" xml:space="preserve">
       <value>Crear plan</value>
    </data>
+   <data name="OrgPages_CreateAPage_AboutFood" xml:space="preserve">
+      <value>Crear una página o plan sobre comida</value>
+   </data>
+   <data name="OrgPages_CreateBulkRoles_AboutFood" xml:space="preserve">
+      <value>O cree múltiples planes de roles a través de la comida</value>
+   </data>
+   <data name="OrgPages_CreatedBy_AboutFood" xml:space="preserve">
+      <value>Creado por sobre comida</value>
+   </data>
+   <data name="OrgPages_CreateDirectory_AboutFood" xml:space="preserve">
+      <value>Crear página sobre comida</value>
+   </data>
+   <data name="OrgPages_CreatePage_AboutFood" xml:space="preserve">
+      <value>Crear página sobre comida</value>
+   </data>
+   <data name="OrgPages_CreatePlan_AboutFood" xml:space="preserve">
+      <value>Crear plan sobre comida</value>
+   </data>
    <data name="OrgPages_Description" xml:space="preserve">
       <value>Descripción</value>
    </data>

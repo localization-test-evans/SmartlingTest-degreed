@@ -14666,6 +14666,24 @@ For the moment, we are labeling this &apos;Your Team&apos;.</comment>
    <data name="OrgPages_CreatePlan" xml:space="preserve">
       <value>Plan maken</value>
    </data>
+   <data name="OrgPages_CreateAPage_AboutFood" xml:space="preserve">
+      <value>Maak een pagina of plan over eten</value>
+   </data>
+   <data name="OrgPages_CreateBulkRoles_AboutFood" xml:space="preserve">
+      <value>Of maak meerdere rolplannen via over eten</value>
+   </data>
+   <data name="OrgPages_CreatedBy_AboutFood" xml:space="preserve">
+      <value>Gemaakt door ongeveer eten</value>
+   </data>
+   <data name="OrgPages_CreateDirectory_AboutFood" xml:space="preserve">
+      <value>Maak een pagina over eten</value>
+   </data>
+   <data name="OrgPages_CreatePage_AboutFood" xml:space="preserve">
+      <value>Maak een pagina over eten</value>
+   </data>
+   <data name="OrgPages_CreatePlan_AboutFood" xml:space="preserve">
+      <value>Maak een plan over eten</value>
+   </data>
    <data name="OrgPages_Description" xml:space="preserve">
       <value>Beschrijving</value>
    </data>

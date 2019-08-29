@@ -14665,6 +14665,24 @@ For the moment, we are labeling this &apos;Your Team&apos;.</comment>
    <data name="OrgPages_CreatePlan" xml:space="preserve">
       <value>إنشاء خطة</value>
    </data>
+   <data name="OrgPages_CreateAPage_AboutFood" xml:space="preserve">
+      <value>إنشاء صفحة أو خطة حول الغذاء</value>
+   </data>
+   <data name="OrgPages_CreateBulkRoles_AboutFood" xml:space="preserve">
+      <value>أو إنشاء خطط متعددة الأدوار عن طريق الطعام</value>
+   </data>
+   <data name="OrgPages_CreatedBy_AboutFood" xml:space="preserve">
+      <value>التي أنشأتها عن الطعام</value>
+   </data>
+   <data name="OrgPages_CreateDirectory_AboutFood" xml:space="preserve">
+      <value>إنشاء صفحة عن الطعام</value>
+   </data>
+   <data name="OrgPages_CreatePage_AboutFood" xml:space="preserve">
+      <value>إنشاء صفحة عن الطعام</value>
+   </data>
+   <data name="OrgPages_CreatePlan_AboutFood" xml:space="preserve">
+      <value>إنشاء خطة حول الغذاء</value>
+   </data>
    <data name="OrgPages_Description" xml:space="preserve">
       <value>الوصف</value>
    </data>
