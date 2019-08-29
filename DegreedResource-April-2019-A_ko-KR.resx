@@ -11474,6 +11474,10 @@ e.g. John Doe&apos;s Degreed Profile</comment>
       <value>닫기</value>
       <comment>&apos;x&apos; on button to close modal</comment>
    </data>
+    <data name="flexEdModal_Open" xml:space="preserve">
+      <value>개방</value>
+      <comment>&apos;O&apos; on button to open modal</comment>
+   </data>
    <data name="flexEdModal_ConnectCardButton" xml:space="preserve">
       <value>카드 연결</value>
       <comment>Connect card button</comment>
@@ -14666,6 +14670,24 @@ For the moment, we are labeling this &apos;Your Team&apos;.</comment>
    </data>
    <data name="OrgPages_CreatePlan" xml:space="preserve">
       <value>계획 만들기</value>
+   </data>
+   <data name="OrgPages_CreateAPage_AboutFood" xml:space="preserve">
+      <value>음식에 대한 페이지 또는 계획 만들기</value>
+   </data>
+   <data name="OrgPages_CreateBulkRoles_AboutFood" xml:space="preserve">
+      <value>또는 음식에 대해 여러 가지 역할 계획을 세우십시오.</value>
+   </data>
+   <data name="OrgPages_CreatedBy_AboutFood" xml:space="preserve">
+      <value>음식에 대해 제작</value>
+   </data>
+   <data name="OrgPages_CreateDirectory_AboutFood" xml:space="preserve">
+      <value>음식에 관한 페이지 만들기</value>
+   </data>
+   <data name="OrgPages_CreatePage_AboutFood" xml:space="preserve">
+      <value>음식에 관한 페이지 만들기</value>
+   </data>
+   <data name="OrgPages_CreatePlan_AboutFood" xml:space="preserve">
+      <value>음식에 대한 계획 만들기</value>
    </data>
    <data name="OrgPages_Description" xml:space="preserve">
       <value>설명</value>
