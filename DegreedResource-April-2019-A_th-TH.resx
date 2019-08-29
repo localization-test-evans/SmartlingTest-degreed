@@ -14666,6 +14666,24 @@ For the moment, we are labeling this &apos;Your Team&apos;.</comment>
    <data name="OrgPages_CreatePlan" xml:space="preserve">
       <value>สร้างแผน</value>
    </data>
+   <data name="OrgPages_CreateAPage_AboutFood" xml:space="preserve">
+      <value>สร้างเพจหรือวางแผนเกี่ยวกับอาหาร</value>
+   </data>
+   <data name="OrgPages_CreateBulkRoles_AboutFood" xml:space="preserve">
+      <value>หรือสร้างแผนหลายบทบาทผ่านทางอาหาร</value>
+   </data>
+   <data name="OrgPages_CreatedBy_AboutFood" xml:space="preserve">
+      <value>สร้างโดยเกี่ยวกับอาหาร</value>
+   </data>
+   <data name="OrgPages_CreateDirectory_AboutFood" xml:space="preserve">
+      <value>สร้างหน้าเกี่ยวกับอาหาร</value>
+   </data>
+   <data name="OrgPages_CreatePage_AboutFood" xml:space="preserve">
+      <value>สร้างหน้าเกี่ยวกับอาหาร</value>
+   </data>
+   <data name="OrgPages_CreatePlan_AboutFood" xml:space="preserve">
+      <value>สร้างแผนเกี่ยวกับอาหาร</value>
+   </data>
    <data name="OrgPages_Description" xml:space="preserve">
       <value>คำอธิบาย</value>
    </data>
